@@ -1,7 +1,7 @@
 
 ##------------------------------------------
 ##--- Author: Pradeep Singh
-##--- Blog: https://iotbytes.wordpress.com/record-audio-from-phone-line-with-raspberry-pi
+##--- Blog: https://iotbytes.wordpress.com/modem-events-and-dtmf-tone-detection-with-raspberry-pi/
 ##--- Date: 27th June 2018
 ##--- Version: 1.0
 ##--- Python Ver: 2.7
